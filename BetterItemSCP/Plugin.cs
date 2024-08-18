@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Exiled.API.Features;
 using Exiled.Events;
 
@@ -11,8 +11,9 @@ namespace BetterItemSCP
         public override string Name => "BetterItemSCP";
         public override string Author => "Vacca";
         public override string Prefix => "BetterItemSCP";
-        public override Version RequiredExiledVersion => new Version(8, 11, 0);
+        public override Version RequiredExiledVersion => new Version(8, 9, 11);
 
+        public static BetterItemSCP Instance;
         public override void OnEnabled()
         {
             _eventHandler = new EventHandler();
