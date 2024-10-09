@@ -2,17 +2,13 @@
 ![Latest](https://img.shields.io/github/v/release/Vacca576/BetterItemSCP?style=for-the-badge&label=Latest%20Release&color=%23D91656)
 
 # Better Item SCP for EXILED
-**If you like this plugin you can support me!**  
-<p text-align="center"> 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/vretu)  
-</p>
 
 ## Features:
 - Customize the effects of various SCP items including SCP-500, SCP-1853, SCP-018, SCP-268, and SCP-207.
 - Enable or disable custom effects for each SCP item.
 - Effects and durations can be easily configured in the plugin settings.
 
-### Minimum Exiled Version: 8.9.8
+### Exiled Version: 8.9.11
 ### Config:
 
 ```yaml
